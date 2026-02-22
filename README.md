@@ -152,5 +152,5 @@ Oppure usa il task di build integrato in VS Code:
 - Seguire lo standard C99 per portabilità
 
 ## Autore
-
-Progetto per corso di **Algoritmi e Strutture Dati** (Università Degli Studi Del Piemonte Orientale?)
+**Kamal Gouaiche**
+Progetto per corso di **Algoritmi e Strutture Dati** Università Degli Studi Del Piemonte Orientale
