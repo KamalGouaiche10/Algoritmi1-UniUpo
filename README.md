@@ -153,4 +153,4 @@ Oppure usa il task di build integrato in VS Code:
 
 ## Autore
 - **Kamal Gouaiche**
-- Progetto per corso di **Algoritmi e Strutture Dati** Università Degli Studi Del Piemonte Orientale
+- corso di **Algoritmi e Strutture Dati 1** Università Degli Studi Del Piemonte Orientale
